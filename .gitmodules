@@ -1,0 +1,3 @@
+[submodule "dvd-shop"]
+	path = dvd-shop
+	url = git@github.com:Yehwan-Baek/phase-4-creating-a-rails-api.git
